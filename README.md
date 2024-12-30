@@ -28,12 +28,13 @@ Expanding Cards est une interface interactive où les utilisateurs peuvent cliqu
 ## Installation et utilisation
 
 1. **Clonez le projet** :
-   ```bash
-   git clone https://github.com/votre-utilisateur/Expanding_Cards.git
-   cd Expanding_Cards
+```bash
+git clone https://github.com/votre-utilisateur/Expanding_Cards.git
+cd Expanding_Cards
 ```
 2. **Ouvrez le fichier HTML** dans votre navigateur préféré :
 3. **Explorez et interagissez avec les cartes** pour les agrandir et découvrir leur contenu.
+
 ## Licence
 
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le distribuer.
